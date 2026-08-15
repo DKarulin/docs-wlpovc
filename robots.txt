@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-c17px7.saturadar88win.cfd/sitemap.xml
